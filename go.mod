@@ -19,10 +19,10 @@ require (
 	github.com/sec51/twofactor v1.0.0
 	github.com/sirupsen/logrus v1.9.0
 	go.mongodb.org/mongo-driver v1.11.1
-	gorm.io/driver/mysql v1.4.5
+	gorm.io/driver/mysql v1.5.0
 	gorm.io/driver/postgres v1.4.6
 	gorm.io/driver/sqlite v1.4.4
-	gorm.io/gorm v1.24.3
+	gorm.io/gorm v1.24.7-0.20230306060331-85eaf9eeda11
 )
 
 require (
